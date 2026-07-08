@@ -1,4 +1,4 @@
-mport random
+import random
 
 words = [
 "apple", "grape", "mango", "peach",
