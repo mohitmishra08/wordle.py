@@ -1,3 +1,3 @@
-# Wordle Game 🎯
+# Wordle Game 
 
 Guess the 5-letter word in 6 tries.
